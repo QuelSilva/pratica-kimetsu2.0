@@ -1,0 +1,21 @@
+.demon {
+  background-color: pink;
+  margin: 20px 0px 0px 0px;
+  width: 400px;
+}
+.imagem {
+  width: 100%;
+}
+
+.frase {
+  text-align: center;
+  width: 100%;
+  font-style: italic;
+  margin: 10px 0px 0px 0px;
+}
+
+.feed {
+  background-color: plum;
+  width: 400px;
+  margin: 0px auto;
+}
